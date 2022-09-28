@@ -9,7 +9,7 @@ class userprofile
     String name,branch,college;
     int rollno,userid;
     float percentage;
-    name = "Sopan Jadhav";
+    name = "Aditya Rajendra Jaitmal.";
     branch = "CSE";
     college = "ICEEM";
     rollno = 21;
